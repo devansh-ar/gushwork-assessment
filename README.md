@@ -1,5 +1,3 @@
-# Mangalam - Premium HDPE Pipes & Industrial Solutions
-
 A responsive product landing page built with vanilla HTML, CSS, and JavaScript -- no frameworks or libraries.
 
 ## Live Preview
